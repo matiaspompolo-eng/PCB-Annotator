@@ -30,7 +30,3 @@ Facilitar la **documentación de reparaciones y relevamientos de PCBs**, conserv
 **Python**
 
 ---
-
-### Ejemplo
-
-![PCB Annotator](assets/pcb_annotator_interface.png)
